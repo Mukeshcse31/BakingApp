@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+
+    <string name="Om">Om Muruga</string>
+
+    <string name="baking_url">https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json</string>
+
+    <string name="error_message">An error has occurred. Please try again</string>
+<string name="no_internet_error">No internet connection</string>
+    <string name="error_fetch">An error has occurred in fetching Movie details - API KEY</string>
+
+    <!--JSON properties-->
+    <string name="id">id</string>
+    <string name="name">name</string>
+    <string name="ingredients">ingredients</string>
+    <string name="steps">steps</string>
+    <string name="servings">servings</string>
+    <string name="image">image</string>
+
+    <string name="quantity">quantity</string>
+    <string name="measure">measure</string>
+    <string name="ingredient">ingredient</string>
+
+    <string name="stepid">id</string>
+    <string name="shortDescription">shortDescription</string>
+    <string name="description">description</string>
+    <string name="videoURL">videoURL</string>
+    <string name="thumbnailURL">thumbnailURL</string>
+
+    <string name="steps_tv">Steps</string>
+    <string name="ingredients_tv">Ingredients</string>
+    <string name="desired_recipe">desired_recipe</string>
+    <string name="no_ingredients">No Ingredients</string>
+
+    <!--Extra String-->
+    <string name="STEP_E">STEP</string>
+    <string name="ALL_STEPS_E">ALL_STEPS</string>
+    <string name="CUR_STEP_E">CUR_STEP</string>
+
+    <!--Test-->
+    <string name="recipeName_Test">Nutella Pie</string>
+</resources>
